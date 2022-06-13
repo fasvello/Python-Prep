@@ -1,0 +1,667 @@
+
+
+
+Sweden supports Ukraine's 'European choice'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* Early init. */
+      euobs.wakeup();
+      /* DFP. */
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+
+      googletag.cmd.push(function() {
+                  googletag.defineSlot(
+            '/10537508/Billboard',
+            [970, 250],
+            'dfp-billboard'
+          ).defineSizeMapping(
+            [[[661,0],[[970,250]]],[[0,0],[]]]          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Large-Mobile-Banner',
+            [320, 100],
+            'dfp-large-mobile-banner'
+          ).defineSizeMapping(
+            [[[661,0],[]],[[0,0],[320,100]]]          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Medium-Rectangle-1',
+            [300, 250],
+            'dfp-medium-rectangle-1'
+          ).defineSizeMapping(
+            []          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Medium-Rectangle-2',
+            [300, 250],
+            'dfp-medium-rectangle-2'
+          ).defineSizeMapping(
+            []          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Medium-Rectangle-3',
+            [300, 250],
+            'dfp-medium-rectangle-3'
+          ).defineSizeMapping(
+            []          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Half-page',
+            [300, 600],
+            'dfp-half-page'
+          ).defineSizeMapping(
+            []          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/In-article',
+            [300, 250],
+            'dfp-in-article'
+          ).defineSizeMapping(
+            [[[1061,0],[[300,250]]],[[0,0],[]]]          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Below-article',
+            [300, 250],
+            'dfp-below-article'
+          ).defineSizeMapping(
+            []          ).addService(googletag.pubads());
+                  googletag.defineSlot(
+            '/10537508/Below-related',
+            [300, 250],
+            'dfp-below-related'
+          ).defineSizeMapping(
+            []          ).addService(googletag.pubads());
+                /* Limited ads. */
+        googletag.pubads().setPrivacySettings({
+          limitedAds: true
+        });
+        /* OSM targeting. */
+        googletag.pubads().setTargeting(
+          "osm-target",
+          euobs.osm.customer ? "1" : "0"
+        );
+        /* Section targeting. */
+        googletag.pubads().setTargeting(
+          "section",
+          "nordics"
+        );
+        /* Environment targeting. */
+        googletag.pubads().setTargeting(
+          "environment",
+          "production"
+        );
+        euobs.dfp_listen();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+      });
+    
+
+      /* GA. */
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+
+      gtag("config", "UA-747373-1", {
+        "anonymize_ip": true,
+        "dimension1": euobs.osm.user || "na",
+        "dimension2": euobs.osm.customer || "na"
+      });
+    
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-billboard'); });
+        
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-large-mobile-banner'); });
+        
+
+
+
+
+Monday
+13th Jun 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join EUobserver
+Login
+Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+Headline News
+
+
+Ukraine
+
+
+EU Political
+
+
+Rule of Law
+
+
+Green Economy
+
+
+Health & Society
+
+
+Migration
+
+
+Digital
+
+
+EU & the World
+
+
+Nordics
+
+
+Opinion
+
+
+More
+
+
+Investigations
+
+
+Agenda
+
+
+Stakeholders
+
+
+Podcast
+
+
+Magazines
+
+
+Search
+
+
+
+
+
+FOCUS ON …
+EU Presidency
+Nordic News
+EU & China
+Health
+Digital Agenda
+LGBTI Rights
+
+
+Join EUobserver
+Login
+Newsletter
+
+
+About Us
+Privacy Policy
+Corrections
+Advertising
+
+
+
+
+
+
+
+
+News
+Nordics
+
+
+
+
+
+Sweden supports Ukraine's 'European choice'
+
+
+
+
+Kyiv applied to join the EU shortly after Russia's attack (Photo: Emilio Morenatti)
+
+
+
+
+
+By 
+Andrew Rettman
+
+Brussels, Today, 07:05
+
+
+Listen to article
+
+
+
+
+Sweden has voiced support for Ukraine's "European choice" as diplomacy gathers pace ahead of an EU summit on its first-ever wartime enlargement decision. 
+"The Swedish government stands firm in its support for Ukraine's European choice," its foreign ministry told EUobserver on Sunday (12 June). 
+
+
+Read and decide
+Join EUobserver today
+Become an expert on Europe
+Get instant access to all articles — and 20 years of archives.
+       14-day free trial.
+
+Choose your plan
+
+
+Monthly
+
+€19
+Short-term commitment
+
+
+
+Yearly
+
+€150
+Best value, save 34%
+
+
+
+Reduced yearly
+
+€90
+Student or retired? Then this plan is for you.
+
+
+
+
+... or subscribe as a group
+
+
+Don't miss out on
+Our exclusive news stories and investigations. Influential. Investigative. Independent.
+
+
+
+
+Why join?
+Watch our founder Lisbeth Kirk explain the reasons in this 30-second video.
+
+
+
+
+Already a member?
+Login here.
+
+
+ 
+
+
+
+
+EU leaders will "revert to the application for EU membership of Ukraine as well as of the Republic of Moldova and Georgia" at a summit on 23 June, the summit agenda said (Photo: Eric Maurice)
+
+
+
+
+"Our engagement in the Eastern Partnership, which Poland and Sweden launched more than a decade ago, reflects our strong conviction and support for Ukraine's close ties with the EU," it added, referring to an EU project to forge closer relations with former Soviet states launched by Stockholm and Warsaw in 2009. 
+Ukraine applied to join the EU in February while already under Russian fire in a bid to legally anchor Western commitment to its future. 
+The European Commission is to issue its recommendation on Friday (17 June) on whether to grant Ukraine official EU candidacy status.
+Candidacy would be just one step in an accession process that would take several years, but even so EU countries must endorse the recommendation first.  
+And EU leaders will "revert to the application for EU membership of Ukraine as well as of the Republic of Moldova and Georgia" at a summit on 23 June, the summit agenda said, after Georgia and Moldova joined Ukraine in also filing EU bids. 
+For her part, European Commission president Ursula von der Leyen raised hopes of a positive recommendation with beaming smiles on a visit to Kyiv on Saturday.
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-in-article'); });
+        
+
+But she also reminded Ukrainian president Volodomyr Zelensky that "there is still need for reforms to be implemented, to fight corruption for example".
+Poland and the Baltic States are said to be "unconditionally" in favour of Ukraine's EU candidacy, diplomats said. 
+But if Sweden's statement sounded positive, it also contained caveats which pointed to tensions in the EU talks.  
+"Ukraine's application for EU membership should be dealt with in the same way as other countries' applications have been," the Swedish foreign ministry also told EUobserver.  
+"The first step is for the Council of the European Union to ask the Commission to assess whether conditions exist for starting negotiations with Ukraine. In this way, we would show that we take Ukraine's application seriously," it added.
+France and Germany have so far played their cards close to their chests. 
+But both they and Sweden were part of a group that still had "questions and reservations" an EU diplomat said. The group also included Belgium, Denmark, the Netherlands, Portugal, and Spain, the diplomat said. 
+The fear was that some might call for "unrealistic" reforms in Ukraine before granting EU candidacy, effectively kicking the process into the long grass, a second EU diplomat said. 
+"And of course if Ukraine doesn't get it, the other two [Georgia and Moldova] can forget about anything," the diplomat added. 
+But with EU unanimity required to go ahead, a second fear is that EU states with close Russia ties might sabotage the process with a veto. 
+Hungary recently vetoed an EU oil embargo on Russia and the blacklisting of a top Russian churchman in what some diplomats say might "embolden" further action in future. 
+"I think it will be possible to pacify them [wary countries such as Denmark and the Netherlands]," a third EU source said. 
+"I'm more fearful of Russian stooges, meaning Cyprus, Hungary, Austria, Malta," the source said. 
+In the background, the US and the UK have been historically in favour of EU enlargement in eastern Europe, but the UK's voice counts for little after Brexit, EU sources said.
+Matter of time?
+Meanwhile, the Ukrainian ambassador to the EU, Vsevolod Chentsov, voiced optimism on Sunday that "Ukraine's fully-fledged EU membership is just a matter of time". 
+Any country seeking EU candidacy status must complete an onerous EU Commission questionnaire hundreds of pages long. 
+And Chentsov underlined that this was no ordinary application. 
+"Ukraine did it in a record high speed under war conditions, while all the government, ministries and respective institutions involved in working on the questionnaire were in Kyiv, under Russian shelling and constant air raids," he told EUobserver. 
+Asked how he thought Russia might react if EU leaders took a positive decision next week, Chentsov said Russia should "stop this savage war" and "finally start taking care of its own people" instead. 
+"Looting by Russian soldiers in Ukraine demonstrates the level of misery and degradation of this country [Russia]," he said.
+
+
+
+
+, your membership gives you access to all of our stories. We highly appreciate your support and value your feedback. If you have any thoughts on this story, we would love to hear it.
+
+
+
+
+
+
+
+Share Article
+
+Twitter
+
+Facebook
+
+LinkedIn
+
+Reddit
+
+Mail
+
+
+
+
+Site Section
+
+Nordics
+
+Related stories
+
+EU parliament revokes Russian lobbyist badges
+Ukraine war complicates Mediterranean 'solidarity' plan
+Sweden to join Finland in applying for Nato
+Hungary delays oil ban over Putin's patriarch
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-below-article'); });
+        
+
+
+
+
+
+
+
+
+
+
+
+EU parliament revokes Russian lobbyist badges
+
+2. Jun, 15:12
+After months of stalled negotiations to remove Russian lobbyists from the EU's joint-transparency register, the European Parliament has decided to go solo and unilaterally bar them from its premises.
+
+
+
+
+
+
+
+
+
+
+
+
+Ukraine war complicates Mediterranean 'solidarity' plan
+
+9. Jun, 17:40
+The French EU presidency proposal seeks to relocate 10,000 asylum seekers, arriving from the Mediterranean, over one year. But with refugees from Ukraine stretching national reception systems, it remains unclear how many EU states will commit to relocations.
+
+
+
+
+
+
+
+
+
+
+
+
+Sweden to join Finland in applying for Nato
+
+15. May, 20:29
+Sweden has signalled it will follow Finland in applying to join Nato, as Switzerland also mulls closer ties with the Western alliance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hungary delays oil ban over Putin's patriarch
+
+1. Jun, 22:22
+Hungary is further delaying EU sanctions on Russia, now saying Europe must not blacklist Russian Orthodox Church head patriarch Kirill.
+
+
+
+
+
+
+
+
+
+
+
+
+EU flags absent in Danish referendum campaign
+
+31. May, 16:16
+The EU flag is nowhere to be seen, when Danish voters head to the polls on Wednesday — in the ninth referendum on the country's relationship to the European Union since 1972.
+
+
+
+
+
+
+
+
+
+
+
+
+Finland builds momentum toward Nato bid
+
+10. May, 18:14
+Finnish MPs have got the ball rolling on a week that's expected to culminate in a tectonic shift in Nordic security — Finland and Sweden's decision to apply for Nato membership.
+
+
+
+
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-below-related'); });
+        
+
+
+
+
+
+
+
+
+Stakeholder
+
+Nordic Bridges unveil latest highlights of Spring programme
+
+18. May, 19:29
+The Nordic Bridges cultural initiative is now in full swing in Canada — an initiatives of the Nordic ministers for culture, to showcase interaction between their cultures and the rest of the world.
+
+
+
+
+
+
+Sweden is arming Ukraine — and still fighting over Nato
+
+14. Mar, 17:24
+"Not even Putin can concoct some imperial Russian myth that Sweden is within Russia's holy borders," said prominent leftwing intellectual and editor of the Dala-Demokraten newspaper, Göran Greider.
+
+
+
+Supported by
+
+
+
+
+
+
+
+
+
+News in Brief
+
+Today, 14:11
+Russia made €93bn in first 100 days of Ukraine war
+Today, 07:26
+Finland won't join Nato without Sweden: Niinistö
+Today, 07:19
+UK tables law to scupper Ireland border deal
+Today, 07:15
+Macron and Mélenchon neck-and-neck in French election
+Today, 07:15
+More Syrians than ever becoming German
+Today, 07:07
+Australia to pay France €555m for submarine fiasco
+Today, 07:07
+Scholz sees 'chance for progress' on Bulgaria veto
+Today, 07:06
+Salvini defends Russia-funded trip
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-medium-rectangle-1'); });
+        
+
+
+Stakeholders' Highlights
+
+EFBWW – EFBH – FETBBHow price increases affect construction workers
+Nordic Council of MinistersNew Nordic think tank examines influence of tech giants
+Nordic Council of MinistersNordic delegation visits Nordic Bridges in Canada
+UNESDA - SOFT DRINKS EUROPEEfficient waste collection schemes, closed-loop recycling and access to recycled content are crucial to transition to a circular economy in Europe
+Nordic Council of MinistersClear to proceed - green shipping corridors in the Nordic Region
+UiPathNo digital future for the EU without Intelligent Automation? Online briefing
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-medium-rectangle-2'); });
+        
+
+
+Latest News
+
+Today, 07:07
+Romania — latest EU hotspot in backlash against LGBT rights
+Today, 07:05
+Sweden supports Ukraine's 'European choice'
+Today, 07:05
+Ten states push back on EU pesticide law, citing food crisis
+Today, 07:04
+Taxonomy and Ukraine on top This WEEK
+10. Jun, 12:36
+ECB exits negative rates, amid fears of a new eurocrisis
+9. Jun, 18:20
+MEPs call on EU countries to wait for Poland's rule-of-law reform
+9. Jun, 17:40
+Ukraine war complicates Mediterranean 'solidarity' plan
+9. Jun, 17:28
+Brussels approves Spanish-Portuguese state-aid price-cap
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-medium-rectangle-3'); });
+        
+
+
+Stakeholders' Highlights
+
+Nordic Council of MinistersNordic ministers agree on international climate commitments
+
+
+
+
+          googletag.cmd.push(function() { googletag.display('dfp-half-page'); });
+        
+
+
+
+
+
+
+
+
+Join EUobserver
+Support quality EU news
+
+
+Join us
+
+
+
+
